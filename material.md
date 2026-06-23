@@ -1,4 +1,4 @@
-# 🧩 Microservices Notes
+# 🧩 Microservices Basics
 
 A comprehensive reference guide for Microservices architecture, patterns, and best practices.
 
