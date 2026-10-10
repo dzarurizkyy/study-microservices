@@ -15,6 +15,8 @@ This repository contains a comprehensive reference guide for Microservices archi
    - Read [Microservices Basics](001-microservice-basics.md) on GitHub, or open it in any Markdown viewer
    - Diagrams are stored in the `images/` folder and referenced from the guide
 
+<br />
+
    > **Note:** No tools are required — the code snippets in the guide are illustrative sketches of each pattern, not a runnable project.
 
 ## List of Material 📚
